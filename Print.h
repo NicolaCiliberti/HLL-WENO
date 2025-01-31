@@ -7,7 +7,7 @@
 
 #endif //PROJET_PRINT_H
 
-#include "grid.h"
+#include "Grid.h"
 #include "Grid1D.h"
 
 class Print {
