@@ -1,5 +1,5 @@
 // main.cpp
-#include "grid.h"
+#include "Grid.h"
 #include "test.h"
 #include <iostream>
 
